@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Pardis Derakhshandeh"
   pronouns         : "she/ her"  
-  bio              : "PhD candidate in Linguistics"
-  location         : # "Earth"
+  bio              : "Ph.D candidate in Linguistics"
+  location         : "Stony Brook, New York"
   employer         : "Stony Brook University"
   uri              : # URL
   email            : "pardis.derakhshandeh@stonybrook.edu" 
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "pardisdrk"
+  twitter          : #"pardisdrk"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
