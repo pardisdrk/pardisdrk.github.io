@@ -2,7 +2,9 @@
 permalink: /
 title: 
 author_profile: true
-
+edirect_from:
+  - /about/
+  - /about.html
 ---
 Hello! 
 My name is Pardis 
