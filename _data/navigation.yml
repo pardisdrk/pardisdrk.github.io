@@ -15,8 +15,10 @@ main:
 #   url: /talks/    
 
    - title: "Projects"
-     url: /Projects/
-
+     url: /projects/
+     
+   - title: "Presentations"
+     url: /presentations/
 
   - title: "Teaching"
     url: /teaching/    
