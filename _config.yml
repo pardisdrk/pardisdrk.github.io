@@ -27,7 +27,7 @@ author:
   name             : "Pardis Derakhshandeh"
   pronouns         : "she/ her"  
   bio              : "Ph.D candidate in Linguistics"
-  location         : "Stony Brook, New York"
+  location         : #"Stony Brook, New York"
   employer         : "Stony Brook University"
   uri              : # URL
   email            : "pardis.derakhshandeh@stonybrook.edu" 
