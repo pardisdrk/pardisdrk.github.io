@@ -12,10 +12,10 @@ main:
     url: /
     
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Conferences"
-    url: /Conferences/    
+    url: /conferences/    
 
   - title: "Teaching"
     url: /teaching/    
