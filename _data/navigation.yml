@@ -11,11 +11,7 @@ main:
 - title: "About"
     url: /
     
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Conferences"
-    url: /conferences/    
+ 
 
   - title: "Teaching"
     url: /teaching/    
