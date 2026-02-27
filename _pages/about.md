@@ -1,6 +1,6 @@
 ---
+title: "About"
 permalink: /
-title: 
 author_profile: true
 edirect_from:
   - /about/
